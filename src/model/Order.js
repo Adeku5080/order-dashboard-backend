@@ -16,7 +16,7 @@ const OrderSchema = new mongoose.Schema(
     product_category: {
       type: String,
       required: [true, "Please provide a product category"],
-      enum: ["Sci-Fi", "Drama", "Comedy", "Horror", "Docu"],
+      enum: ["Sci-Fi", "Drama", "Comedy", "Horror", "Documentary"],
     },
     price: {
       type: String,
