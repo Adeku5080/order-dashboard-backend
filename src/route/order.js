@@ -10,6 +10,3 @@ orderRouter.post("/", createNewOrder);
 
 module.exports = orderRouter;
 
-// aliadekuaam;
-// adeku1997;`
-// mongodb+srv://aliadekuaam:adeku1997@cluster0.q4rfda8.mongodb.net/order_dashboard
